@@ -4,7 +4,9 @@
 #### Bruce Leung
 ----------------------
 ### Work Examples:
-1.  A Volunteer Time-Tracking Web App with a restful API built with a Vue front-end and Node back-end with a mySQL database.  My role in this project was somewhat of a lead developer where I chose our frameworks, and did the legwork for learning how to use them.  That way, I could distill information to my teammates via pair programming sessions.  I enjoyed tackling things that had the most challenge and after showing them the front-to-back ropes via the Login page, and settings page, I moved onwards to the Calendar.  This is a custom-built calendar which fit the SCRUM stories needed by the client.  I had help from a teammate who oversaw the MySQL database to create the queries and functions necessary to maintain the REST API we had.
+1.  A Volunteer Time-Tracking Web App with a restful API built with a Vue front-end and Node back-end with a mySQL database.  
+
+My role in this project was somewhat of a lead developer where I chose our frameworks, and did the legwork for learning how to use them.  That way, I could distill information to my teammates via pair programming sessions.  I enjoyed tackling things that had the most challenge and after showing them the front-to-back ropes via the Login page, and settings page, I moved onwards to the Calendar.  This is a custom-built calendar which fit the SCRUM stories needed by the client.  I had help from a teammate who oversaw the MySQL database to create the queries and functions necessary to maintain the REST API we had.
 
 The goal of this project was to create a replacement for a manual method of volunteer time-tracking for a public school here in Edmonton.  Each parent has a varying amount of technological experience, so we wanted to create something with a very intuitive.  Page refreshes are something of a pet-peeve of mine, so I opted for a very reactive experience.  We're one of the top groups in the class with only 2 groups rivaling our progress.
 https://github.com/reallynewbie/w18brown
